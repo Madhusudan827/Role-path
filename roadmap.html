@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redirecting… · RolePath</title>
+  <meta name="robots" content="noindex" />
+  <script>
+    // The Java/Python toggle page has been retired in favor of two
+    // dedicated roadmap pages. Send old ?path= links to the right one.
+    var params = new URLSearchParams(window.location.search);
+    var target = params.get("path") === "python" ? "python-full-stack.html" : "java-full-stack.html";
+    window.location.replace(target);
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a href="java-full-stack.html">the Java roadmap</a> or <a href="python-full-stack.html">the Python roadmap</a>…</p>
+</body>
+</html>
