@@ -1,0 +1,940 @@
+{
+  "java-1": {
+    "topicId": "java-1",
+    "roadmap": "java",
+    "topicTitle": "Java Fundamentals",
+    "subtopics": [
+      {
+        "id": "java-1-vid-1",
+        "title": "Syntax",
+        "youtubeUrl": "https://youtu.be/CZgzzsTCylo?si=ju62qXHTto9eGkte"
+      },
+      {
+        "id": "java-1-vid-2",
+        "title": "Variables",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-1-vid-3",
+        "title": "Data types",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-1-vid-4",
+        "title": "Operators, control flow, how the JVM actually runs your code",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-1-vid-5",
+        "title": "Operators, control flow, how the JVM actually runs your code",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-2": {
+    "topicId": "java-2",
+    "roadmap": "java",
+    "topicTitle": "Object-Oriented Programming",
+    "subtopics": [
+      {
+        "id": "java-2-vid-1",
+        "title": "Classes",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-2-vid-2",
+        "title": "Objects",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-2-vid-3",
+        "title": "Inheritance",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-2-vid-4",
+        "title": "Polymorphism, encapsulation, abstraction — the four pillars",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-3": {
+    "topicId": "java-3",
+    "roadmap": "java",
+    "topicTitle": "Collections Framework",
+    "subtopics": [
+      {
+        "id": "java-3-vid-1",
+        "title": "List",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-3-vid-2",
+        "title": "Set",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-3-vid-3",
+        "title": "Map",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-3-vid-4",
+        "title": "Queue implementations, when to reach for each one",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-4": {
+    "topicId": "java-4",
+    "roadmap": "java",
+    "topicTitle": "Exception Handling",
+    "subtopics": [
+      {
+        "id": "java-4-vid-1",
+        "title": "Checked vs unchecked exceptions",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-4-vid-2",
+        "title": "Try-with-resources",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-4-vid-3",
+        "title": "Building your own exception types",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-5": {
+    "topicId": "java-5",
+    "roadmap": "java",
+    "topicTitle": "File Handling",
+    "subtopics": [
+      {
+        "id": "java-5-vid-1",
+        "title": "Reading",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-5-vid-2",
+        "title": "Writing files with java.io",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-5-vid-3",
+        "title": "Java.nio",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-5-vid-4",
+        "title": "Working with streams of data",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-6": {
+    "topicId": "java-6",
+    "roadmap": "java",
+    "topicTitle": "Multithreading",
+    "subtopics": [
+      {
+        "id": "java-6-vid-1",
+        "title": "Threads",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-6-vid-2",
+        "title": "The Executor framework",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-6-vid-3",
+        "title": "Synchronization",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-6-vid-4",
+        "title": "Avoiding race conditions",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-7": {
+    "topicId": "java-7",
+    "roadmap": "java",
+    "topicTitle": "JDBC",
+    "subtopics": [
+      {
+        "id": "java-7-vid-1",
+        "title": "Connecting Java applications to relational databases",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-7-vid-2",
+        "title": "Running queries directly",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-8": {
+    "topicId": "java-8",
+    "roadmap": "java",
+    "topicTitle": "SQL & Database",
+    "subtopics": [
+      {
+        "id": "java-8-vid-1",
+        "title": "Schema design",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-8-vid-2",
+        "title": "Joins",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-8-vid-3",
+        "title": "Indexes",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-8-vid-4",
+        "title": "Writing queries that scale",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-9": {
+    "topicId": "java-9",
+    "roadmap": "java",
+    "topicTitle": "Data Structures & Algorithms",
+    "subtopics": [
+      {
+        "id": "java-9-vid-1",
+        "title": "Arrays",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-9-vid-2",
+        "title": "Trees",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-9-vid-3",
+        "title": "Graphs",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-9-vid-4",
+        "title": "Sorting, searching — the problem-solving toolkit interviewers test",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-10": {
+    "topicId": "java-10",
+    "roadmap": "java",
+    "topicTitle": "Git & GitHub",
+    "subtopics": [
+      {
+        "id": "java-10-vid-1",
+        "title": "Version control workflows: branching",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-10-vid-2",
+        "title": "Merging",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-10-vid-3",
+        "title": "Pull requests",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-10-vid-4",
+        "title": "Resolving conflicts",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-11": {
+    "topicId": "java-11",
+    "roadmap": "java",
+    "topicTitle": "HTML",
+    "subtopics": [
+      {
+        "id": "java-11-vid-1",
+        "title": "Semantic markup",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-11-vid-2",
+        "title": "Document structure for the pages your backend will serve",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-12": {
+    "topicId": "java-12",
+    "roadmap": "java",
+    "topicTitle": "CSS",
+    "subtopics": [
+      {
+        "id": "java-12-vid-1",
+        "title": "Layout with Flexbox",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-12-vid-2",
+        "title": "Grid",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-12-vid-3",
+        "title": "Responsive design",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-12-vid-4",
+        "title": "Styling fundamentals",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-13": {
+    "topicId": "java-13",
+    "roadmap": "java",
+    "topicTitle": "JavaScript",
+    "subtopics": [
+      {
+        "id": "java-13-vid-1",
+        "title": "Core language features",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-13-vid-2",
+        "title": "The DOM",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-13-vid-3",
+        "title": "Asynchronous programming with promises",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-14": {
+    "topicId": "java-14",
+    "roadmap": "java",
+    "topicTitle": "React",
+    "subtopics": [
+      {
+        "id": "java-14-vid-1",
+        "title": "Components",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-14-vid-2",
+        "title": "Props",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-14-vid-3",
+        "title": "State",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-14-vid-4",
+        "title": "Hooks for building the frontend that talks to your API",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-15": {
+    "topicId": "java-15",
+    "roadmap": "java",
+    "topicTitle": "Spring Boot",
+    "subtopics": [
+      {
+        "id": "java-15-vid-1",
+        "title": "Auto-configuration",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-15-vid-2",
+        "title": "Dependency injection",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-15-vid-3",
+        "title": "Building production-ready Java services",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-16": {
+    "topicId": "java-16",
+    "roadmap": "java",
+    "topicTitle": "REST APIs",
+    "subtopics": [
+      {
+        "id": "java-16-vid-1",
+        "title": "Designing resources",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-16-vid-2",
+        "title": "HTTP verbs",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-16-vid-3",
+        "title": "Status codes",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-16-vid-4",
+        "title": "Versioning APIs that hold up",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-17": {
+    "topicId": "java-17",
+    "roadmap": "java",
+    "topicTitle": "JPA & Hibernate",
+    "subtopics": [
+      {
+        "id": "java-17-vid-1",
+        "title": "Mapping Java objects to database tables",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-17-vid-2",
+        "title": "Managing entity relationships",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-18": {
+    "topicId": "java-18",
+    "roadmap": "java",
+    "topicTitle": "Authentication & Security",
+    "subtopics": [
+      {
+        "id": "java-18-vid-1",
+        "title": "Spring Security",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-18-vid-2",
+        "title": "JWTs",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-18-vid-3",
+        "title": "Password hashing",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-18-vid-4",
+        "title": "Protecting endpoints properly",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-19": {
+    "topicId": "java-19",
+    "roadmap": "java",
+    "topicTitle": "Deployment",
+    "subtopics": [
+      {
+        "id": "java-19-vid-1",
+        "title": "Packaging your app",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-19-vid-2",
+        "title": "Environment configuration",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-19-vid-3",
+        "title": "Shipping it to a live server",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-20": {
+    "topicId": "java-20",
+    "roadmap": "java",
+    "topicTitle": "Projects",
+    "subtopics": [
+      {
+        "id": "java-20-vid-1",
+        "title": "Three portfolio-ready builds that combine everything above into real applications",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "java-21": {
+    "topicId": "java-21",
+    "roadmap": "java",
+    "topicTitle": "Interview Preparation",
+    "subtopics": [
+      {
+        "id": "java-21-vid-1",
+        "title": "Common Java",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-21-vid-2",
+        "title": "Spring interview questions",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-21-vid-3",
+        "title": "System design basics",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "java-21-vid-4",
+        "title": "Mock rounds",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-1": {
+    "topicId": "py-1",
+    "roadmap": "python",
+    "topicTitle": "Python Fundamentals",
+    "subtopics": [
+      {
+        "id": "py-1-vid-1",
+        "title": "Syntax",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-1-vid-2",
+        "title": "Data types",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-1-vid-3",
+        "title": "Control flow",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-1-vid-4",
+        "title": "Functions, the standard library basics",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-2": {
+    "topicId": "py-2",
+    "roadmap": "python",
+    "topicTitle": "Object-Oriented Programming",
+    "subtopics": [
+      {
+        "id": "py-2-vid-1",
+        "title": "Classes",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-2-vid-2",
+        "title": "Inheritance",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-2-vid-3",
+        "title": "Magic methods",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-2-vid-4",
+        "title": "Writing Pythonic, reusable code",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-3": {
+    "topicId": "py-3",
+    "roadmap": "python",
+    "topicTitle": "Modules & Packages",
+    "subtopics": [
+      {
+        "id": "py-3-vid-1",
+        "title": "Structuring larger projects",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-3-vid-2",
+        "title": "Virtual environments",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-3-vid-3",
+        "title": "Managing dependencies with pip",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-4": {
+    "topicId": "py-4",
+    "roadmap": "python",
+    "topicTitle": "Exception Handling",
+    "subtopics": [
+      {
+        "id": "py-4-vid-1",
+        "title": "Try/except blocks",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-4-vid-2",
+        "title": "Custom exceptions",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-4-vid-3",
+        "title": "Writing code that fails gracefully",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-5": {
+    "topicId": "py-5",
+    "roadmap": "python",
+    "topicTitle": "File Handling",
+    "subtopics": [
+      {
+        "id": "py-5-vid-1",
+        "title": "Reading",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-5-vid-2",
+        "title": "Writing",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-5-vid-3",
+        "title": "Processing files",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-5-vid-4",
+        "title": "Plus working with JSON, CSV data",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-6": {
+    "topicId": "py-6",
+    "roadmap": "python",
+    "topicTitle": "SQL",
+    "subtopics": [
+      {
+        "id": "py-6-vid-1",
+        "title": "Schema design",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-6-vid-2",
+        "title": "Joins",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-6-vid-3",
+        "title": "Indexes",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-6-vid-4",
+        "title": "Writing queries against a relational database",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-7": {
+    "topicId": "py-7",
+    "roadmap": "python",
+    "topicTitle": "Data Structures & Algorithms",
+    "subtopics": [
+      {
+        "id": "py-7-vid-1",
+        "title": "Lists",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-7-vid-2",
+        "title": "Dicts",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-7-vid-3",
+        "title": "Trees",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-7-vid-4",
+        "title": "Graphs, sorting, searching — the problem-solving toolkit interviewers test",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-8": {
+    "topicId": "py-8",
+    "roadmap": "python",
+    "topicTitle": "Git & GitHub",
+    "subtopics": [
+      {
+        "id": "py-8-vid-1",
+        "title": "Version control workflows: branching",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-8-vid-2",
+        "title": "Merging",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-8-vid-3",
+        "title": "Pull requests",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-8-vid-4",
+        "title": "Resolving conflicts",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-9": {
+    "topicId": "py-9",
+    "roadmap": "python",
+    "topicTitle": "HTML",
+    "subtopics": [
+      {
+        "id": "py-9-vid-1",
+        "title": "Semantic markup",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-9-vid-2",
+        "title": "Document structure for the pages your backend will serve",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-10": {
+    "topicId": "py-10",
+    "roadmap": "python",
+    "topicTitle": "CSS",
+    "subtopics": [
+      {
+        "id": "py-10-vid-1",
+        "title": "Layout with Flexbox",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-10-vid-2",
+        "title": "Grid",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-10-vid-3",
+        "title": "Responsive design",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-10-vid-4",
+        "title": "Styling fundamentals",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-11": {
+    "topicId": "py-11",
+    "roadmap": "python",
+    "topicTitle": "JavaScript",
+    "subtopics": [
+      {
+        "id": "py-11-vid-1",
+        "title": "Core language features",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-11-vid-2",
+        "title": "The DOM",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-11-vid-3",
+        "title": "Asynchronous programming with promises",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-12": {
+    "topicId": "py-12",
+    "roadmap": "python",
+    "topicTitle": "React",
+    "subtopics": [
+      {
+        "id": "py-12-vid-1",
+        "title": "Components",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-12-vid-2",
+        "title": "Props",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-12-vid-3",
+        "title": "State",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-12-vid-4",
+        "title": "Hooks for building the frontend that talks to your API",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-13": {
+    "topicId": "py-13",
+    "roadmap": "python",
+    "topicTitle": "Django / FastAPI",
+    "subtopics": [
+      {
+        "id": "py-13-vid-1",
+        "title": "Building production APIs",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-13-vid-2",
+        "title": "Apps with Python's leading web frameworks",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-14": {
+    "topicId": "py-14",
+    "roadmap": "python",
+    "topicTitle": "REST APIs",
+    "subtopics": [
+      {
+        "id": "py-14-vid-1",
+        "title": "Designing resources",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-14-vid-2",
+        "title": "HTTP verbs",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-14-vid-3",
+        "title": "Status codes",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-14-vid-4",
+        "title": "Versioning APIs that hold up",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-15": {
+    "topicId": "py-15",
+    "roadmap": "python",
+    "topicTitle": "Authentication",
+    "subtopics": [
+      {
+        "id": "py-15-vid-1",
+        "title": "Sessions",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-15-vid-2",
+        "title": "JWTs",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-15-vid-3",
+        "title": "Password hashing",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-15-vid-4",
+        "title": "Protecting routes, endpoints properly",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-16": {
+    "topicId": "py-16",
+    "roadmap": "python",
+    "topicTitle": "Deployment",
+    "subtopics": [
+      {
+        "id": "py-16-vid-1",
+        "title": "Packaging your app",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-16-vid-2",
+        "title": "Environment configuration",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-16-vid-3",
+        "title": "Shipping it to a live server",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-17": {
+    "topicId": "py-17",
+    "roadmap": "python",
+    "topicTitle": "Projects",
+    "subtopics": [
+      {
+        "id": "py-17-vid-1",
+        "title": "Three portfolio-ready builds that combine everything above into real applications",
+        "youtubeUrl": "#"
+      }
+    ]
+  },
+  "py-18": {
+    "topicId": "py-18",
+    "roadmap": "python",
+    "topicTitle": "Interview Preparation",
+    "subtopics": [
+      {
+        "id": "py-18-vid-1",
+        "title": "Common Python",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-18-vid-2",
+        "title": "Web-framework interview questions",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-18-vid-3",
+        "title": "System design basics",
+        "youtubeUrl": "#"
+      },
+      {
+        "id": "py-18-vid-4",
+        "title": "Mock rounds",
+        "youtubeUrl": "#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact · RolePath</title>
+  <meta name="description" content="Have questions about our roadmaps? We are here to help." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <span class="logo__mark">RP</span>
+        RolePath
+      </a>
+
+      <nav class="nav-menu" data-nav-menu>
+        <a href="index.html" data-page="index.html">Home</a>
+        <a href="roadmaps.html" data-page="roadmaps.html">Roadmaps</a>
+        <a href="about.html" data-page="about.html">About</a>
+        <a href="contact.html" data-page="contact.html">Contact</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark and light mode" aria-pressed="true">
+          <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M21 12.6A9 9 0 1 1 11.4 3a7 7 0 0 0 9.6 9.6Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+          <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="4.5" stroke="currentColor" stroke-width="1.6"/><path d="M12 2.5v2.4M12 19.1v2.4M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2.5 12h2.4M19.1 12h2.4M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        </button>
+        <button class="nav-toggle" data-nav-toggle aria-label="Toggle menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Contact</span>
+        <h1 class="section-title">Get In Touch</h1>
+        <p>Have questions about our roadmaps? We are here to help.</p>
+      </div>
+    </section>
+
+    <section class="section section--tight">
+      <div class="container">
+        <div class="contact-grid">
+          <form class="contact-form" data-contact-form novalidate>
+            <div class="form-group">
+              <label for="name">Name</label>
+              <input type="text" id="name" name="name" placeholder="Your name" autocomplete="name" />
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" placeholder="you@example.com" autocomplete="email" />
+            </div>
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" placeholder="How can we help?"></textarea>
+            </div>
+            <button type="submit" class="btn btn--primary btn--full">Send Message</button>
+            <p class="form-status" data-form-status></p>
+          </form>
+
+          <div>
+            <div class="section-head" style="margin-bottom:24px;">
+              <span class="eyebrow">FAQ</span>
+              <h2 class="section-title" style="font-size:1.5rem;">Common Questions</h2>
+            </div>
+
+            <details class="faq-item" open>
+              <summary class="faq-item__q">
+                Why should I follow a roadmap?
+                <svg class="faq-item__icon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true"><path d="M9 3v12M3 9h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+              </summary>
+              <p class="faq-item__a">A roadmap gives every topic you learn a purpose and an order. Instead of collecting disconnected tutorials, you build skills that stack on top of each other toward a real outcome.</p>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-item__q">
+                Which roadmap should I choose?
+                <svg class="faq-item__icon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true"><path d="M9 3v12M3 9h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+              </summary>
+              <p class="faq-item__a">Both roadmaps end at the same place: a full-stack developer with a working portfolio. Pick Java if you want strong typing and enterprise-style backends, or Python if you'd rather start with a simpler syntax and move fast.</p>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-item__q">
+                Do I need prior experience?
+                <svg class="faq-item__icon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true"><path d="M9 3v12M3 9h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+              </summary>
+              <p class="faq-item__a">No. Both roadmaps start from the fundamentals and assume no prior programming background — just a willingness to work through topics in order.</p>
+            </details>
+
+            <details class="faq-item">
+              <summary class="faq-item__q">
+                How do I track progress?
+                <svg class="faq-item__icon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true"><path d="M9 3v12M3 9h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+              </summary>
+              <p class="faq-item__a">Every roadmap page has a checkbox on each topic. Checking one off updates your progress bar instantly and saves automatically, so you can pick up right where you left off.</p>
+            </details>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="logo"><span class="logo__mark">RP</span>RolePath</a>
+          <p>Structured learning roadmaps that help students become software developers — one clear step at a time.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Site</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="roadmaps.html">Roadmaps</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Roadmaps</h4>
+          <ul>
+            <li><a href="java-full-stack.html">Java Full Stack</a></li>
+            <li><a href="python-full-stack.html">Python Full Stack</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year></span> RolePath</span>
+        <span>Built for students who want a plan, not a pile of links.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/contact.js"></script>
+</body>
+</html>
